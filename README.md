@@ -11,3 +11,5 @@ OpenCV
 Scikit-image
 Matplot
 
+<Requirement Hardware>
+USB Camera
